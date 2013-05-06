@@ -1,0 +1,6 @@
+git config --global user.name "liuen"
+git config --global user.email "liuen@admaster.com.cn"
+touch empty
+git add empty
+git commit -m 'add file empty'
+git push origin liuen
